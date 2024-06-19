@@ -1,0 +1,8 @@
+db:
+ host: localhost
+ user: 'addy'
+ password: 'Adarsh74475618'
+ schema: public
+ dbname: ipl_database
+
+log_dir: 'logs'
